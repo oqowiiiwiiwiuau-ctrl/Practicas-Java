@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problema10 {
+public class Problema09 {
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
         //Un bus moviendose con movimiento uniforme y rectilineo, recorre 40 km en 5 h

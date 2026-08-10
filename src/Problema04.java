@@ -12,6 +12,10 @@ public class Problema04 {
         double residuo = x % y;
         System.out.println("El cociente es: "+z);
         System.out.println("El residuo es: "+residuo);
-
+        // Nota: Se detectó una discrepancia en la segunda prueba de escritorio del material,primera edición
+        // Para la entrada 13 y 2, el cociente correcto es 6 y el residuo es 1.
+        // Por lo tanto: 13 / 2 = 6 y 13 % 2 = 1.
+        // En la segunda prueba
+        // 13|2|5|3   -->  13|2|6|1
     }
 }
